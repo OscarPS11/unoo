@@ -1,4 +1,6 @@
 
 public class j {
-//gs
+public static void main(String[] args) {
+	
+}
 }
